@@ -1,5 +1,7 @@
 dm-salesforce
 =============
+TODO: Add partner api
+
 
 A gem that provides a Salesforce Adapter for DataMapper 0.10.x, and basic 1.0.x
 support.
